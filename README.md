@@ -4,6 +4,9 @@
 
 ![Karina Bernardes GitHub stats](https://github-readme-stats.vercel.app/api?username=kahbernardees&show_icons=true&theme=radical)
 
+![Karina Bernardes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kahbernardees&theme=radical)
+
+
 ### Tecnologias 🎮
 
 <div style= "display: inline_block"><br/>
