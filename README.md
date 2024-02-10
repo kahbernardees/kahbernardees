@@ -1,5 +1,11 @@
 ### Olá ! Eu sou a Karina Bernardes 😉
 
+Tenho 28 anos moro em São Paulo-Sp e sou apaixonada por tecnologia e inovação
+
+Adoro resolver Bugs, estou preparada para entrar nesse universo da programação 
+
+Atualmente estou cursando Analise e Desenvolvimento de Sistemas - Usjt.  <br/><br/>
+
 
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kahbernardes/)[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karinabernardessant/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/kahbernardes#8233)
 
@@ -8,7 +14,7 @@
 ![Karina Bernardes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kahbernardees&theme=radical)
 
 
-### Tecnologias 🎮
+### Tecnologias 🎮💻
 
 <div style= "display: inline_block"><br/>
 <img aLign= "center" alt= "java1" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/
@@ -24,8 +30,6 @@
   <img aLing= "center" alt= "Css1" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/
 </div><br/>
 
-
-Apaixonada por tecnologia, cursando Analise e Desenvolvimento de Sistemas - Usjt <br/>
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 karina.bernardes01@icloud.com
