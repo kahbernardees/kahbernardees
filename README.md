@@ -4,7 +4,8 @@ Tenho 28 anos moro em São Paulo-Sp e sou apaixonada por tecnologia e inovação
 
 Adoro resolver Bugs nesse universo louco que é a programação. 
 
-Atualmente estou cursando Analise e Desenvolvimento de Sistemas - Usjt.  <br/><br/> ![image](https://github.com/kahbernardees/kahbernardees/assets/128442786/b8a1f940-49ca-4e51-bf6d-60e1e1d983b1)
+Atualmente estou cursando Analise e Desenvolvimento de Sistemas - Usjt.  <br/><br/> ![image](https://github.com/kahbernardees/kahbernardees/assets/128442786/7c5f5966-fd12-4577-b3ff-ca2eab8f29b3)
+
 
 
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kahbernardes/)[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karinabernardessant/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/kahbernardes#8233)
