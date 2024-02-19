@@ -32,6 +32,4 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistemas - Usjt.  <br/><b
 </div><br/>
 
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-karina.bernardes01@icloud.com
 
