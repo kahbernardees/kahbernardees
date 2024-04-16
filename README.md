@@ -1,6 +1,6 @@
 ### Olá ! Eu sou a Karina Bernardes 😉
 
-Tenho 28 anos moro em São Paulo-Sp e sou apaixonada por tecnologia e inovação
+Tenho 28 anos moro em São Paulo-Sp e sou apaixonada por tecnologia e inovação,
 
 Adoro resolver Bugs nesse universo louco que é a programação, embarcando na jornada de ser uma desenvolvedora Full Stack.
 
