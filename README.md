@@ -2,9 +2,9 @@
 
 Tenho 28 anos moro em São Paulo-Sp e sou apaixonada por tecnologia e inovação
 
-Adoro resolver Bugs nesse universo louco que é a programação. 
+Adoro resolver Bugs nesse universo louco que é a programação, embarcando na jornada de ser uma desenvolvedora Full Stack.
 
-Atualmente estou cursando Analise e Desenvolvimento de Sistemas - Usjt.  <br> ![image](https://github.com/kahbernardees/kahbernardees/assets/128442786/9d152acb-3302-4cc0-b58b-594e648ec78b) </br>
+Student Analise e Desenvolvimento de Sistemas - Usjt.  <br> ![image](https://github.com/kahbernardees/kahbernardees/assets/128442786/9d152acb-3302-4cc0-b58b-594e648ec78b) </br>
 
 
 
