@@ -7,8 +7,6 @@ Além disso, possuo uma experiência sólida no atendimento ao público, onde ap
 Fique à vontade para me contatar pelo GitHub ou e-mail. Estou aberta às novas oportunidades.
 
 
- <br> ![image](https://github.com/kahbernardees/kahbernardees/assets/128442786/9d152acb-3302-4cc0-b58b-594e648ec78b) </br>
-
 
 
 
