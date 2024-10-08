@@ -1,10 +1,13 @@
 ### Olá ! Eu sou a Karina Bernardes 😉
 
-Tenho 28 anos moro em São Paulo-Sp e sou apaixonada por tecnologia e inovação,
+Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação, com grande interesse em desenvolver habilidades na área de desenvolvimento Full-Stack. Sempre em busca de novos conhecimentos e aprimoramento técnico, estou embarcando em uma jornada para me tornar uma profissional completa na área.
 
-Adoro resolver Bugs nesse universo louco que é a programação, embarcando na jornada de ser uma desenvolvedora Full Stack.
+Além disso, possuo uma experiência sólida no atendimento ao público, onde aprendi a importância da comunicação eficaz e da satisfação do cliente, habilidades que consideramos essenciais em qualquer área.
 
-Student Analise e Desenvolvimento de Sistemas - Usjt.  <br> ![image](https://github.com/kahbernardees/kahbernardees/assets/128442786/9d152acb-3302-4cc0-b58b-594e648ec78b) </br>
+Fique à vontade para me contatar pelo GitHub ou e-mail. Estou aberta às novas oportunidades.
+
+
+ <br> ![image](https://github.com/kahbernardees/kahbernardees/assets/128442786/9d152acb-3302-4cc0-b58b-594e648ec78b) </br>
 
 
 
