@@ -1,6 +1,6 @@
 ### Olá ! Eu sou a Karina Bernardes 😉
 
-Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação, com grande interesse em desenvolver habilidades na área de desenvolvimento Full-Stack. Sempre em busca de novos conhecimentos e aprimoramento técnico, estou embarcando em uma jornada para me tornar uma profissional completa na área.
+Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação, com grande interesse em desenvolver habilidades na área de desenvolvimento Full-Stack. Sempre em busca de novos conhecimentos e aprimoramento técnico, estou embarcando em uma jornada para me tornar uma profissional completa na área.
 
 Além disso, possuo uma experiência sólida no atendimento ao público, onde aprendi a importância da comunicação eficaz e da satisfação do cliente, habilidades que consideramos essenciais em qualquer área.
 
